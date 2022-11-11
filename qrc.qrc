@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>videoUi.qml</file>
+    </qresource>
+</RCC>
